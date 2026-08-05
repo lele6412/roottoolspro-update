@@ -1,0 +1,9 @@
+"code": 0,
+  "msg": "",
+  "hasUpdate": true,
+  "isForce": false,
+  "versionCode": 7,
+  "versionName": "2.3.0",
+  "updateContent": "1. 新增应用内更新功能\n2. 修复本地脚本执行失败问题\n3. 支持Root静默安装",
+  "downloadUrl": "https://raw.githubusercontent.com/lele6412/roottoolspro-update/main/RootToolsPro.apk",
+  "apkSize": 5000000
