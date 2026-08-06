@@ -1,1 +1,1 @@
-{"versionCode":22,"versionName":"3.5.0","isForce":false,"updateContent":"v3.5.0: WuKongIM chat + EasyAppUpdater + GitHub Release","downloadUrl":"https://github.com/lele6412/roottoolspro-update/releases/download/v3.5.0/RootToolsPro.apk"}
+{"versionCode":23,"versionName":"3.5.1","isForce":false,"updateContent":"## v3.5.1\n\n### 主要更新\n- LocalAI 连接问题修复\n- 服务自动检测优化\n- Centrifugo 端口修正 (8080 → 8081)\n- 代码质量审查与清理\n- 性能优化","downloadUrl":"https://github.com/lele6412/roottoolspro-update/releases/download/v3.5.1/RootToolsPro.apk"}
