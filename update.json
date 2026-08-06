@@ -2,6 +2,6 @@
   "versionCode": 24,
   "versionName": "3.6.0",
   "isForce": false,
-  "updateContent": "## v3.6.0 Ollama + Realtime\n\n### 服务架构全面升级\n- Ollama 替代 LocalAI (端口 11434)\n- Realtime 替代 Centrifugo + WuKongIM (端口 8081)\n- 新增服务器状态面板\n- UI 优化与功能重新组织\n- 3 个 AI 模型已预下载\n\n### 详细日志\n查看 GitHub Releases",
+  "updateContent": "## v3.6.0 更新日志\n\n### 服务架构全面升级\n- Ollama 替代 LocalAI (端口 11434)\n- Realtime 替代 Centrifugo + WuKongIM (端口 8081)\n- 新增服务器状态面板\n- UI 优化与功能重新组织\n- 3 个 AI 模型已预下载\n\n### 详细日志\n查看 GitHub Releases",
   "downloadUrl": "https://github.com/lele6412/roottoolspro-update/releases/download/v3.6.0/RootToolsPro_v3.6.0.apk"
 }
