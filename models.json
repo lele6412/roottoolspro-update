@@ -1,0 +1,36 @@
+{
+  "version": "3.6.0",
+  "updated_at": "2026-08-07T03:01:39Z",
+  "models": [
+    {
+      "name": "qwen2.5:7b",
+      "display_name": "Qwen 2.5 (7B)",
+      "size_gb": 4.36,
+      "description": "阿里通义中文模型，7B 参数，通用对话和中文理解能力优秀",
+      "features": ["中文对话", "通用任务", "代码生成"],
+      "language": "中文/英文",
+      "speed": "中等",
+      "recommended": true
+    },
+    {
+      "name": "qwen2.5:3b",
+      "display_name": "Qwen 2.5 (3B)",
+      "size_gb": 1.80,
+      "description": "轻量版中文模型，3B 参数，启动快，适合移动端",
+      "features": ["中文对话", "轻量快速"],
+      "language": "中文/英文",
+      "speed": "快",
+      "recommended": true
+    },
+    {
+      "name": "llama3.2:3b",
+      "display_name": "Llama 3.2 (3B)",
+      "size_gb": 1.88,
+      "description": "Meta 开源模型，3B 参数，英文能力强，代码生成好",
+      "features": ["英文对话", "代码生成", "多语言"],
+      "language": "英文/多语言",
+      "speed": "快",
+      "recommended": false
+    }
+  ]
+}
