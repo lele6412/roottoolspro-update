@@ -1,1 +1,7 @@
-{"versionCode":23,"versionName":"3.5.1","isForce":false,"updateContent":"## v3.5.1\n\n### 主要更新\n- LocalAI 连接问题修复\n- 服务自动检测优化\n- Centrifugo 端口修正 (8080 → 8081)\n- 代码质量审查与清理\n- 性能优化","downloadUrl":"https://github.com/lele6412/roottoolspro-update/releases/download/v3.5.1/RootToolsPro.apk"}
+{
+  "versionCode": 24,
+  "versionName": "3.6.0",
+  "isForce": false,
+  "updateContent": "## v3.6.0 Ollama + Realtime\n\n### 服务架构全面升级\n- Ollama 替代 LocalAI (端口 11434)\n- Realtime 替代 Centrifugo + WuKongIM (端口 8081)\n- 新增服务器状态面板\n- UI 优化与功能重新组织\n- 一键部署脚本\n\n### 详细日志\n查看 GitHub Releases",
+  "downloadUrl": "https://github.com/lele6412/roottoolspro-update/releases/download/v3.6.0/RootToolsPro_v3.6.0.apk"
+}
